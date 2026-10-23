@@ -1,12 +1,12 @@
 {
-  "name": "druhy-mozek-katerina",
+  "name": "second-brain-skills",
   "owner": {
     "name": "Tomáš Doležal"
   },
   "plugins": [
     {
-      "name": "druhy-mozek",
-      "source": "./plugins/druhy-mozek",
+      "name": "second-brain",
+      "source": "./plugins/second-brain",
       "description": "Skills pro druhý mozek: vytěžení zdrojů do wiki, hlasovky, paměť z minulých konverzací, psaní skillů."
     }
   ],
