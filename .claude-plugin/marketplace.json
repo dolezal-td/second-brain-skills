@@ -1,0 +1,16 @@
+{
+  "name": "druhy-mozek-katerina",
+  "owner": {
+    "name": "Tomáš Doležal"
+  },
+  "plugins": [
+    {
+      "name": "druhy-mozek",
+      "source": "./plugins/druhy-mozek",
+      "description": "Skills pro druhý mozek: vytěžení zdrojů do wiki, hlasovky, paměť z minulých konverzací, psaní skillů."
+    }
+  ],
+  "metadata": {
+    "description": "Skills a nastavení pro druhý mozek Kateřiny Kryllové."
+  }
+}

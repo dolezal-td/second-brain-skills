@@ -1,0 +1,8 @@
+{
+  "name": "druhy-mozek",
+  "description": "Skills pro druhý mozek: vytěžení zdrojů do wiki, hlasovky, paměť z minulých konverzací, psaní skillů.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Tomáš Doležal"
+  }
+}
