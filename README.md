@@ -4,7 +4,7 @@ Skills a nastavení pro Claude Code k druhému mozku, který je u Kateřiny Kryl
 
 ## Co tu je
 
-- `plugins/second-brain/` je plugin se čtyřmi skills: `brain-ingest`, `extract-voicenote`, `recall`, `write-a-skill`.
+- `plugins/second-brain/` je plugin s těmito skills: `brain-ingest`, `extract-voicenote`, `recall`, `write-a-skill`, `wiki-query`, `wiki-lint`, `session-log`, `show-me`, `research`, `obsidian-markdown`, `obsidian-bases`. Skills `obsidian-markdown` a `obsidian-bases` jsou převzaté z kepano/obsidian-skills (MIT), viz `ATTRIBUTION.md` v jejich složce.
 - `nastaveni/` obsahuje `AGENTS.md` (instrukce pro agenta), `CLAUDE.md` (odkaz na AGENTS a cesta ke kořeni druhého mozku) a `settings.json` (oprávnění). Tyhle soubory nejsou plugin, Claude Code je neumí doručit přes plugin. Zapisují se přímo do `~/.claude/` a vždy se nejdřív zazálohují.
 
 ## Instalace
